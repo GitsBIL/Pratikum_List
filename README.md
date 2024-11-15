@@ -3,7 +3,7 @@
 # Langkah 1: Inisialisasi List Kosong
   Buat list kosong data_mahasiswa yang akan digunakan untuk menyimpan data setiap mahasiswa.
   
-  ![Gambar](gambar/SS1.png)
+  ![Gambar](Gambar/SS1.png)
 
 # Langkah 2: Memulai Loop untuk Input Data
   Memulai loop while True agar program terus meminta input data mahasiswa sampai pengguna memilih untuk berhenti.
